@@ -1,0 +1,2 @@
+# chinfo.github.com
+blog
